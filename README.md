@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tanveerg1
+- 👋 Hi, I’m Tanveer Singh Ghatourha
 - 👀 I’m interested in developing video games
-- 🌱 I’m currently learning AWS
+- 🌱 I’m a Cloud DevOps Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
